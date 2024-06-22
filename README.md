@@ -1,5 +1,4 @@
-erm just a normal peep
-
+wsg yall
 
 <!---
 katsulol/katsulol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
