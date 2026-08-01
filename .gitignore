@@ -1,0 +1,11 @@
+# Ignore original template kit directory
+ascii-profile-kit/
+
+# Ignore raw source photo & local prepped image if preferred
+img.jpeg
+
+# Python cache & OS files
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
