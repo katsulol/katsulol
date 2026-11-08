@@ -1,35 +1,35 @@
 {
   "username": "katsulol",
-  "generated_at": "2026-11-07T10:16:04Z",
+  "generated_at": "2026-11-08T10:26:51Z",
   "range": {
-    "start": "2025-11-02",
-    "end": "2026-11-07"
+    "start": "2025-11-09",
+    "end": "2026-11-08"
   },
-  "total_contributions": 0,
-  "active_days": 0,
-  "avg_per_active_day": 0,
+  "total_contributions": 105,
+  "active_days": 10,
+  "avg_per_active_day": 10.5,
   "current_streak": {
     "length": 0,
     "start": null,
     "end": null
   },
   "longest_streak": {
-    "length": 0,
-    "start": null,
-    "end": null
+    "length": 2,
+    "start": "2026-10-25",
+    "end": "2026-10-26"
   },
   "best_day": {
-    "date": "2025-11-02",
-    "count": 0
+    "date": "2026-10-21",
+    "count": 23
   },
   "monthly": [
     {
       "month": "2025-11",
-      "total": 0
+      "total": 2
     },
     {
       "month": "2025-12",
-      "total": 0
+      "total": 1
     },
     {
       "month": "2026-01",
@@ -61,7 +61,7 @@
     },
     {
       "month": "2026-08",
-      "total": 0
+      "total": 1
     },
     {
       "month": "2026-09",
@@ -69,42 +69,14 @@
     },
     {
       "month": "2026-10",
-      "total": 0
+      "total": 62
     },
     {
       "month": "2026-11",
-      "total": 0
+      "total": 39
     }
   ],
   "days": [
-    {
-      "date": "2025-11-02",
-      "count": 0
-    },
-    {
-      "date": "2025-11-03",
-      "count": 0
-    },
-    {
-      "date": "2025-11-04",
-      "count": 0
-    },
-    {
-      "date": "2025-11-05",
-      "count": 0
-    },
-    {
-      "date": "2025-11-06",
-      "count": 0
-    },
-    {
-      "date": "2025-11-07",
-      "count": 0
-    },
-    {
-      "date": "2025-11-08",
-      "count": 0
-    },
     {
       "date": "2025-11-09",
       "count": 0
@@ -191,7 +163,7 @@
     },
     {
       "date": "2025-11-30",
-      "count": 0
+      "count": 2
     },
     {
       "date": "2025-12-01",
@@ -251,7 +223,7 @@
     },
     {
       "date": "2025-12-15",
-      "count": 0
+      "count": 1
     },
     {
       "date": "2025-12-16",
@@ -1167,7 +1139,7 @@
     },
     {
       "date": "2026-08-01",
-      "count": 0
+      "count": 1
     },
     {
       "date": "2026-08-02",
@@ -1471,7 +1443,7 @@
     },
     {
       "date": "2026-10-16",
-      "count": 0
+      "count": 3
     },
     {
       "date": "2026-10-17",
@@ -1491,7 +1463,7 @@
     },
     {
       "date": "2026-10-21",
-      "count": 0
+      "count": 23
     },
     {
       "date": "2026-10-22",
@@ -1499,7 +1471,7 @@
     },
     {
       "date": "2026-10-23",
-      "count": 0
+      "count": 9
     },
     {
       "date": "2026-10-24",
@@ -1507,11 +1479,11 @@
     },
     {
       "date": "2026-10-25",
-      "count": 0
+      "count": 7
     },
     {
       "date": "2026-10-26",
-      "count": 0
+      "count": 20
     },
     {
       "date": "2026-10-27",
@@ -1539,11 +1511,11 @@
     },
     {
       "date": "2026-11-02",
-      "count": 0
+      "count": 17
     },
     {
       "date": "2026-11-03",
-      "count": 0
+      "count": 22
     },
     {
       "date": "2026-11-04",
@@ -1559,6 +1531,10 @@
     },
     {
       "date": "2026-11-07",
+      "count": 0
+    },
+    {
+      "date": "2026-11-08",
       "count": 0
     }
   ]
